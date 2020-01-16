@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+RTomassetti Web Portfolio at https://richard.tomassetti.net 
 
-Theme Name: MyResume
-Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+This is a web portfolio/resume for richard tomassetti at richard.tomassetti.net
